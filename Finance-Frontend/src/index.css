@@ -1,0 +1,23 @@
+
+.line-chart {
+  width: 100%; /* Full width of the parent */
+  height: 400px; /* Full height of the parent */
+  display: flex; /* Enable flexbox for centering */
+}
+.filter{
+    display: flex; 
+    align-items:center;
+}
+
+table {
+    margin-left: 4%;
+    margin-right: 4%;
+    width: 40%; 
+    border-collapse: collapse;
+}
+
+.summary {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
